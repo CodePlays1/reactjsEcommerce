@@ -1,0 +1,37 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "~assets/*": [
+                "src/assets/*"
+            ],
+            "~components/*": [
+                "src/components/*"
+            ],
+            "~containers/*": [
+                "src/containers/*"
+            ],
+            "~contexts/*": [
+                "src/contexts/*"
+            ],
+            "~pages/*": [
+                "src/pages/*"
+            ],
+            "~/*": [
+                "src/*"
+            ],
+            "~CartItem/*": [
+                "src/components/CartItem/*"
+            ],
+            "~constants/*": [
+                "src/constants/*"
+            ],
+            "~ProductsFilter/*": [
+                "src/containers/ProductsFilter/*"
+            ],
+            "~FilterButton/*": [
+                "src/components/FilterButton/*"
+            ]
+        }
+    }
+}
