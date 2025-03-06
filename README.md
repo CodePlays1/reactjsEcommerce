@@ -29,7 +29,7 @@ Available here:
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:vitorfnery/ecommerce-website.git`
+1. Clone the repository: `git clone https://github.com/CodePlays1/reactjsEcommerce`
 2. Navigate to the project directory: `cd your_project`
 3. Install the dependencies: `npm install`
 
