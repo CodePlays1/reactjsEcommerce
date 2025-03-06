@@ -14,7 +14,7 @@ The products data were fetched from [Fake Store API](https://fakestoreapi.com/).
 
 ![preview](./.github/preview_responsiveness.gif)
 
-Available here: [React E-commerce - Vítor F. Nery](https://react-ecommerce-vitorfnery.netlify.app/)
+Available here:
 
 ## 🛠️ Technologies 
 
