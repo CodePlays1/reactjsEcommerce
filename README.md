@@ -36,3 +36,7 @@ Available here:
 ## Usage
 
 - Start the development server: `npm run dev`
+  
+Preview 📸
+You can see a sample of the project at the screenshots folder
+
